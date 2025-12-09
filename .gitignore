@@ -1,0 +1,20 @@
+# Environment variables
+.env
+.env.production
+*.env.local
+
+# Deployment
+deploy.ps1
+setup-server.ps1
+
+# Server files
+C:\Deploy\
+/home/PerfectKey/
+
+# Database backups
+*.bak
+backups/
+
+# Logs
+logs/
+*.log

@@ -1,0 +1,11 @@
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\bin\Debug\net9.0\PerfectKeyV1.Domain.deps.json
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\bin\Debug\net9.0\PerfectKeyV1.Domain.dll
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\bin\Debug\net9.0\PerfectKeyV1.Domain.pdb
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\obj\Debug\net9.0\PerfectKeyV1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\obj\Debug\net9.0\PerfectKeyV1.Domain.AssemblyInfoInputs.cache
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\obj\Debug\net9.0\PerfectKeyV1.Domain.AssemblyInfo.cs
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\obj\Debug\net9.0\PerfectKeyV1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\obj\Debug\net9.0\PerfectKeyV1.Domain.dll
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\obj\Debug\net9.0\refint\PerfectKeyV1.Domain.dll
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\obj\Debug\net9.0\PerfectKeyV1.Domain.pdb
+C:\Users\nguye\Project\PerfectKeyV1_Clean\PerfectKeyV1.Domain\obj\Debug\net9.0\ref\PerfectKeyV1.Domain.dll
